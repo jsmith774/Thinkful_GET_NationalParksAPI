@@ -1,0 +1,13 @@
+div {
+  padding: 16px 0;
+}
+
+#resultsList {
+
+}
+
+.parkEntry {
+  padding: 30px;
+  border: thin solid black;
+  margin: 15px;
+}
